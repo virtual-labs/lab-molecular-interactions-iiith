@@ -99,5 +99,5 @@
   },
   "exp_name": "Radiation forces on a dielectric particle",
   "exp_short_name": "radiation-forces",
-  "version": "v0.7.0"
+  "version": "v0.8.0"
 }
