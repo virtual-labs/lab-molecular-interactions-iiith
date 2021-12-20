@@ -14,77 +14,77 @@
       "name": "Internuclear forces in a diatomic molecule: Optical and magnetic tweezer experiments",
       "short-name": "diatomic-molecule",
       "repo": "https://github.com/virtual-labs/exp-diatomic-molecule-iiith",
-      "tag": "v1.0.5",
+      "tag": "v1.0.7",
       "deploy": true
     },
     {
       "name": "Molecular forces in a triatomic molecule: A magnetic tweezer experiment",
       "short-name": "triatomic-molecule",
       "repo": "https://github.com/virtual-labs/exp-triatomic-molecule-iiith",
-      "tag": "v1.0.5",
+      "tag": "v1.0.7",
       "deploy": true
     },
     {
       "name": "Dihedral forces in a quad-atomic molecule: A magnetic tweezer experiment",
       "short-name": "quad-atomic-molecule",
       "repo": "https://github.com/virtual-labs/exp-quad-atomic-molecule-iiith",
-      "tag": "v1.0.5",
+      "tag": "v1.0.7",
       "deploy": true
     },
     {
       "name": "Interatomic van der Waals forces",
       "short-name": "waals-forces",
       "repo": "https://github.com/virtual-labs/exp-waals-forces-iiith",
-      "tag": "v1.0.5",
+      "tag": "v1.0.7",
       "deploy": true
     },
     {
       "name": "Van der Waals forces between molecules",
       "short-name": "waals-forces-molecules",
       "repo": "https://github.com/virtual-labs/exp-waals-forces-molecules-iiith",
-      "tag": "v1.0.5",
+      "tag": "v1.0.8",
       "deploy": true
     },
     {
       "name": "Interatomic electrostatic forces",
       "short-name": "interatomic-electrostatic-forces",
       "repo": "https://github.com/virtual-labs/exp-interatomic-electrostatic-forces-iiith",
-      "tag": "v1.0.5",
+      "tag": "v1.0.7",
       "deploy": true
     },
     {
       "name": "Electrostatic forces between molecules",
       "short-name": "electrostatic-forces",
       "repo": "https://github.com/virtual-labs/exp-electrostatic-forces-iiith",
-      "tag": "v1.0.4",
+      "tag": "v1.0.6",
       "deploy": true
     },
     {
       "name": "Many-body forces in a polyatomic molecule",
       "short-name": "many-body-forces",
       "repo": "https://github.com/virtual-labs/exp-many-body-forces-iiith",
-      "tag": "v1.0.4",
+      "tag": "v1.0.6",
       "deploy": true
     },
     {
       "name": "Solvent viscous forces on a polyatomic molecule",
       "short-name": "solvent-viscous-forces",
       "repo": "https://github.com/virtual-labs/exp-solvent-viscous-forces-iiith",
-      "tag": "v1.0.4",
+      "tag": "v1.0.6",
       "deploy": true
     },
     {
       "name": "Molecular seperation using interatomic forces: Column chromatography",
       "short-name": "interatomic-forces",
       "repo": "https://github.com/virtual-labs/exp-interatomic-forces-iiith",
-      "tag": "v1.0.4",
+      "tag": "v1.0.6",
       "deploy": true
     },
     {
       "name": "Radiation forces on a dielectric particle",
       "short-name": "radiation-forces",
       "repo": "https://github.com/virtual-labs/exp-radiation-forces-iiith",
-      "tag": "v1.0.4",
+      "tag": "v1.0.6",
       "deploy": true
     }
   ],
@@ -99,5 +99,5 @@
   },
   "exp_name": "Radiation forces on a dielectric particle",
   "exp_short_name": "radiation-forces",
-  "version": "v0.8.0"
+  "version": "v0.9.0"
 }
