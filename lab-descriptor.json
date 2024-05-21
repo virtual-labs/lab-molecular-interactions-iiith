@@ -1,9 +1,11 @@
 {
   "broadArea": {
     "name": "Chemical Sciences",
-    "link": "https://www.vlab.co.in/broad-area-chemical-sciences"
+    "link": "https://www.vlab.co.in/broad-area-chemical-sciences",
+    "code": "CHEMSCI"
   },
   "lab": "Molecular Interactions",
+  "lab_display_name":"Molecular Interactions",
   "deployLab": true,
   "phase": 2,
   "collegeName": "IIITH",
@@ -96,8 +98,5 @@
   "courseAlignment": {
     "description": "The present lab is aligned with an introductory course on Molecular Recognition and Supramolecular Chemistry ,general topics in physical chemistry.The experiments touch on most topics covered in such courses in most curricula.",
     "universities": ["Universities with Chemical Sciences"]
-  },
-  "exp_name": "Radiation forces on a dielectric particle",
-  "exp_short_name": "radiation-forces",
-  "version": "v0.10.0"
+  }
 }
